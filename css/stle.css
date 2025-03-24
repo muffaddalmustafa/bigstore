@@ -1,0 +1,21 @@
+.h5{
+    top: 50%;
+}
+.img1{
+    background-image: url(/images/img/sub-banner-1.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: 100% !important;
+}
+.img3 {
+    background-image: url(/images/img/sub-banner-3.jpg);
+    background-repeat: no-repeat;
+   
+    background-size: 100%;
+}
+.img2 {
+    background-image: url(/images/img/sub-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
